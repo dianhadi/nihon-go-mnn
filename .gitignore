@@ -1,0 +1,9 @@
+node_modules/
+out/
+source/
+public/audio/
+.cache/
+.env
+.env.*
+!.env.example
+.DS_Store
