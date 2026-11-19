@@ -1,0 +1,29 @@
+# DRAFT: short placeholder story to exercise the pipeline. Replace with the real expanded story.
+lesson: 26
+title: { ja: "雨の日", en: "A Rainy Day" }
+scenes:
+  - id: s01
+    location: office
+    cast: [miller, sato]
+    lines:
+      - id: L26-001
+        speaker: sato
+        ja: "ミラーさん、どうしたんですか。"
+        expression: surprised
+      - id: L26-002
+        speaker: miller
+        ja: "傘がないんです。"
+        expression: troubled
+      - id: L26-003
+        speaker: sato
+        ja: "じゃ、わたしの傘を使ってください。"
+        expression: happy
+        pause: 0.5
+  - id: s02
+    location: street
+    cast: [miller]
+    lines:
+      - id: L26-004
+        speaker: miller
+        ja: "佐藤さんは優しいですね。"
+        expression: happy

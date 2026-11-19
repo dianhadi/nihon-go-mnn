@@ -1,0 +1,9 @@
+# Cast registry. `voice` is the ElevenLabs voice you picked (reference only; fill in as you go).
+# `color` is the placeholder silhouette color until real art exists.
+characters:
+  - id: miller
+    name: { ja: ミラー, en: Miller }
+    color: "#4f7cac"
+  - id: sato
+    name: { ja: 佐藤, en: Sato }
+    color: "#c0607a"

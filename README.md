@@ -37,11 +37,9 @@ Remotion renders scenes + reusable characters, timed by timings.json
 - Node.js (LTS)
 - pnpm
 - An ElevenLabs account (audio is generated manually there; no API key needed)
-- whisper.cpp is installed locally on first `pnpm align` run
+- cmake (`brew install cmake`), used to build whisper.cpp on the first `pnpm align` run. The Whisper model (~1.6 GB) is downloaded into `.cache/` at the same time.
 
 ## Getting started
-
-> The project is not scaffolded yet. These are the target commands.
 
 ```bash
 pnpm install
